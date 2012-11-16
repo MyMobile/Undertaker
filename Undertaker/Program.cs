@@ -10,7 +10,7 @@ namespace Undertaker
     {
         static void Main(string[] args)
         {
-            Console.Writeline();
+            Console.WriteLine("Hi this s it... What do you want?");
         }
     }
 }
