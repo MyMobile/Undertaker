@@ -11,7 +11,7 @@ namespace Undertaker
         static void Main(string[] args)
         {
             Console.WriteLine("Hi this s it... What do you want?");
-	Console.Readline();
+	Console.ReadLine();
 			
         }
     }
