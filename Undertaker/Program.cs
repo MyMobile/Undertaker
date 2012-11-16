@@ -10,6 +10,7 @@ namespace Undertaker
     {
         static void Main(string[] args)
         {
+            Console.Writeline();
         }
     }
 }
