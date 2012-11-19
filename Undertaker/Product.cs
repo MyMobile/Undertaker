@@ -8,7 +8,7 @@ namespace Undertaker
 {
     class Product
     {
-        private string id;
+        private string Name { get; set; }
         public int Id { get; set; }
     }
 }
