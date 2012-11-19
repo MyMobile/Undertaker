@@ -8,7 +8,10 @@ namespace Undertaker
 {
     class Product
     {
+<<<<<<< HEAD
+        private double id;
+=======
         private string id;
-        public int Id { get; set; }
+>>>>>>> 9caa7ceb7a63fcd631b1ae5a500c6b939116a8f1
     }
 }
