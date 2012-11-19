@@ -8,6 +8,6 @@ namespace Undertaker
 {
     class Product
     {
-        private string id;
+        private int id;
     }
 }
